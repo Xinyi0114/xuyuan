@@ -5,11 +5,11 @@
     font-style: normal;
 }
 
-#img1{
-  width:50vw;
+#about{
   position: absolute;
-  top:10vh;
-  left:10vw;
+  padding: 2em;
+  font-size: 5em;
+  width: 80vw;
 }
 
 #img2{
@@ -25,7 +25,7 @@ left: 150vw;
   border-bottom: 1px solid black;
   border-left: 1px solid black;
   position: fixed;
-  right: 0vw;
+  right: 1em;
   margin: 1em;
   width: 5em;
 }
