@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'barlaxentregular';
-    src: url('barlaxent_2-webfont.woff2') format('woff2'),
-         url('barlaxent_2-webfont.woff') format('woff');
+    src: url('../fonts/barlaxent_2-webfont.woff2') format('woff2'),
+         url('../fonts/barlaxent_2-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
