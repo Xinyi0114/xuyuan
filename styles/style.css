@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'barlaxentregular';
+    src: url('barlaxent_2-webfont.woff2') format('woff2'),
+         url('barlaxent_2-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 #img1{
   width:50vw;
   position: absolute;
@@ -38,4 +46,5 @@ html {
 body{
   width: 300vw;
   height: 300vh;
+  font-family: 'barlaxentregular';
 }
