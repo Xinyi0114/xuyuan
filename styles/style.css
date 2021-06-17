@@ -10,3 +10,7 @@ position: absolute;
 buttom:10vh;
 right:20vw;
 }
+
+body{
+  background-color: red;
+}
