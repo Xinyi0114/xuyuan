@@ -6,10 +6,11 @@
 }
 
 #about{
+  padding-left:5vw;
   position: absolute;
-  padding: 2em;
-  font-size: 5em;
+  font-size: 4em;
   width: 80vw;
+  text-align:justify;
 }
 
 #img2{
